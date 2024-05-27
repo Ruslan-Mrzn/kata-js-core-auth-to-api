@@ -1,0 +1,1 @@
+# kata-js-core-auth-to-api
